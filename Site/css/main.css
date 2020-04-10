@@ -1,0 +1,109 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header
+{
+    display: inline-block;
+    width: 100%;
+	background-color: #CD5C5C;
+
+}
+
+h2
+{
+	color:#D3D3D3;
+}
+.titre /*ma robe et moi*/
+{
+display: inline-block;
+    color: white;
+    padding-top: 12px;
+    padding-left: 164px;
+    background-color: #CD5C5C;
+    margin: auto;
+    font-size: -webkit-xxx-large;
+    font-family: 'Lucida Sans Unicode';
+
+}
+user agent stylesheet
+div {
+    display: block;
+}
+  
+}
+.b1 /* bande horizontale avec 3 cases*/
+{
+  background-color: #FAF5E4;
+  height: 400px;
+}
+
+#square /* cases de la bande horizontale*/
+{background-color:#E9967A; margin-left: 90px;
+ margin-right: 70px;
+padding:40px;
+width:200px;
+color: white;
+border-radius: 7px;
+display : inline-block;
+
+  
+}
+.img_index
+{
+	width: 100%;
+	height: 600px;
+	
+}
+
+/*********code pour le menu **********/
+ul
+{
+text-align:center;
+background-color: #E9967A;
+width: 100%;
+margin: auto;
+padding: auto;
+line-height:50px;}
+li
+{
+
+	background-color:#E9967A;
+	display: inline-block;
+	text-align:center;
+	
+	
+
+}
+
+a
+{
+	font-family: 'Lucida Sans Unicode';
+	display: block;
+    color: white;
+    text-decoration: none;
+    width: 173px;
+
+}
+
+ul li a:hover {
+ /* background-color:#D3D3D3;*/
+ background-color:#FFA07A;
+ border-color:#696969 #DCDCDC #DCDCDC #696969;
+ }
+ /***** fin du menu
+ 
+ 
+ 
+ 
+ /*****debut footer*******/
+ footer
+ {
+	 color: white;
+	 background-color: #D3D3D3;
+	 height: 100px;
+	 width: 100%;
+ }
+ 
+ /*******fin du footer***********/
